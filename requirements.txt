@@ -1,0 +1,13 @@
+argparse
+asyncio
+json
+logging
+signal
+ssl
+sys
+functools
+typing
+urllib3
+asyncio-mqtt
+sml
+python-slugify
